@@ -11,15 +11,5 @@
 ## Technologies Used
 
 - **Frontend:** ReactJS, HTML5, CSS3
-- **Backend:** [Add backend technology here if applicable, e.g., Django, Express.js]
-- **API:** [Weather API used, e.g., OpenWeatherMap API]
-- **Deployment:** [Deployment platform, e.g., Heroku, Netlify]
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/weather-app.git
+- **API:**  OpenWeatherMap API
+- **Deployment:** Vercel
